@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.card {
+  width: 20rem;
+  background-color: rgb(1, 1, 1);
+  border-radius: 10%;
+  box-shadow: inset;
+ 
+  
+}
+#btn{
+  font-weight: 100;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: azure;
+}
+.card-title{
+  font: 1em sans-serif;
+ font-size: larger;
+
+}
+button{
+  float: center;
+  padding: 10px 35px;
+  display: inline-block;
+  background-color: #04AA6D;
+  color: white;
+  border-radius: 8px;
+  border: 2px solid #fefefe; 
+
+}
