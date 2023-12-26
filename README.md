@@ -1,3 +1,9 @@
+
+Your app is ready to be deployed!
+________________________________________________________________
+
+![Screenshot 2023-12-26 152016](https://github.com/Vishalsutar170901/ReactComponent/assets/98759085/c037df9f-6053-45cc-91d1-9c592007a88c)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -25,10 +31,7 @@ Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
-_________________________________________________________
-Your app is ready to be deployed!
 
-![Screenshot 2023-12-26 152016](https://github.com/Vishalsutar170901/ReactComponent/assets/98759085/c037df9f-6053-45cc-91d1-9c592007a88c)
 
 
 
